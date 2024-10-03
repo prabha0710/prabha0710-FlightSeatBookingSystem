@@ -6,6 +6,10 @@ namespace FlightSeatBookingSystem.Test
 		[TestMethod]
 		public void TestMethod1()
 		{
+			
+
+
 		}
+
 	}
 }
